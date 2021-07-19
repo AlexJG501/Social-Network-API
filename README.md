@@ -40,4 +40,3 @@ A REST API for a social media app. Built with Express, Mongoose, and MongoDB.
 - mongoose
 
 ## Screen Recording
-- <iframe src="https://drive.google.com/file/d/1R4T6_I7ykpBQLubQonyw_0QgwObnsKQ-/preview" width="auto" height="auto"></iframe>
